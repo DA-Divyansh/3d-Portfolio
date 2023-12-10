@@ -18,8 +18,6 @@ React JS: A JavaScript library for building user interfaces.
 Three JS: A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 EmailJS: A service that simplifies the integration of email functionality in web applications.
-License
-This project is licensed under the MIT License.
 
 Feel free to customize and use it for your own portfolio!
 Thankyou Javascript Mastery (Adrain Hajdin) for your video. 
